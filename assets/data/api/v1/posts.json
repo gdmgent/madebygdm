@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Bezoek Proximus TV",
+    "synopsis": "Hoe ziet het leven eruit op de GDM-campus? Maar ook, wie krijgen we hier zoal over de vloer? En waar gaan we zelf op bezoek?",
+    "body":"<p>Hoe gaat het er eigenlijk aan toe in zo’n professionele studio? Onze studenten AVD mochten het aan de levende lijve ondervinden tijdens een bezoek aan Proximus TV.</p>",
+    "thumbnailUrl": "https://picsum.photos/800/450/?image=1077",
+    "createdAt": 1513712828450,
+    "category": "Bedrijfsbezoeken"
+  },
+  {
+    "id": "2",
+    "title": "Music 4 life",
+    "synopsis": "Music 4 life",
+    "body":"<p>Onze Stuvers zorgen tijdens De Warmste Week voor de nodige sfeer tijdens de middagpauze. Zo verkopen ze hotdogs, jenever, chocomelk, glühwein en poffertjes, allemaal voor het goede doel. Dit jaar kozen ze ervoor om Potpourri te ondersteunen. Knappe gasten die Stuvers!</p>",
+    "thumbnailUrl": "https://picsum.photos/800/450/?image=1078",
+    "createdAt": 1513712828450,
+    "category": "Events"
+  },
+  {
+    "id": "3",
+    "title": "Illustreren met Carll Cneut",
+    "synopsis": "Illustreren met Carll Cneut.",
+    "body":"<p>Carll Cneut studeerde ooit zelf Grafische Vormgeving te Gent. In 1996 debuteerde hij als illustrator van prentenboeken.</p><p>Boek na boek kreeg Cneut meer grip op zijn composities, wat resulteerde in al heel wat prijzen. Hij vond een gaatje in zijn drukke agenda om een workshop te geven aan onze studenten. Het resultaat mag er zeker zijn, niet?</p>",
+    "thumbnailUrl": "https://picsum.photos/800/450/?image=1079",
+    "createdAt": 1513712828450,
+    "category": "Workshops"
+  },
+  {
+    "id": "4",
+    "title": "Galabal Gutenberg 2017",
+    "synopsis": "Galabal Gutenberg",
+    "body":"<p>Gutenberg organiseerde ook dit jaar weer, een spetterend galabal waar onze studenten volledig uit hun dak gingen.</p></p>Fotografe Kirsten Segaert was erbij en captioneerde <a href=\"https://www.facebook.com/pg/KirstenSegaertPhotography/photos/?tab=album&album_id=549968295358175\" title=\"Fantastische beelden door fotografe Kirsten Segaert\">fantastische beelden</a> van deze spetters!</p>",
+    "thumbnailUrl": "https://picsum.photos/800/450/?image=1080",
+    "createdAt": 1513712828450,
+    "category": "Studentenclub"
+  },
+  {
+    "id": "5",
+    "title": "Seminarie Storytelling",
+    "synopsis": "Seminarie Storytelling",
+    "body": "<p>Op 9 november ging er een internationaal seminarie door rond Storytelling. Een mooie samenwerking van de Arteveldehogeschool, Mediarte en EGIN leverde heel wat bezoekers op.</p><p>Dit seminarie bevatte heel wat interessante panelgesprekken en inspirerende keynotes. Zo kwamen onder andere Fredo De Smet en Hans Bourlon langs. Me onderwerpen zoals 360° storytelling en de impact van hedendaagse skillsets, kregen we heel wat bezoekers over de vloer!</p>",
+    "thumbnailUrl": "https://picsum.photos/800/450/?image=1081",
+    "createdAt": 1513712828450,
+    "category": "Seminaries"
+  },
+  {
+    "id": "6",
+    "title": "Oud-student Lisa Nevejans in het nieuws",
+    "synopsis": "Hoe ziet het leven eruit op de GDM-campus? Maar ook, wie krijgen we hier zoal over de vloer? En waar gaan we zelf op bezoek?",
+    "body":"<p>Oud-studente Lisa Nevejans, digitaal marketeer bij Hooox gespot in Trends!</p><p>Ook benieuwd naar de impact van sociale media op de vastgoedsector? Lees Lisa's en andere vastgoedmarketeers hun <a href=\"http://trends.knack.be/economie/immo/facebook-wil-zwaar-inzetten-op-vastgoedmarkt/article-normal-930097.html\" title=\"Insights door Lisa en andere vastgoedmarketeers\">insights</a>.</p>",
+    "thumbnailUrl": "https://picsum.photos/800/450/?image=1082",
+    "createdAt": 1513712828450,
+    "category": "Alumni"
+  }
+]
